@@ -1,0 +1,6 @@
+[submodule "split-expense-api"]
+	path = split-expense-api
+	url = https://github.com/gsundeep-tech/split-expense-api.git
+[submodule "split-expense-ui"]
+	path = split-expense-ui
+	url = https://github.com/gsundeep-tech/split-expense-ui.git

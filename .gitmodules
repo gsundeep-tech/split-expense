@@ -1,0 +1,8 @@
+[submodule "split-expense-ui"]
+	path = split-expense-ui
+	url = https://github.com/gsundeep-tech/split-expense-ui.git
+	branch = main
+[submodule "split-expense-api"]
+	path = split-expense-api
+	url = https://github.com/gsundeep-tech/split-expense-api.git
+	branch = main
